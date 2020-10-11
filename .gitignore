@@ -3,7 +3,7 @@
 *.pyc
 __pycache__
 local_settings.py
-db.ecommercedb
-db.ecommercedb-journal
+db.sqlite3
+db.sqlite3-journal
 /media
 /static
